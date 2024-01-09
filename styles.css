@@ -1,0 +1,21 @@
+.nav-container {
+    width: 50%;
+    /* or whatever width you want */
+    margin: 0 auto;
+}
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+p.double {
+    border-style: double;
+}
+
+p {
+    margin: 10px;
+}

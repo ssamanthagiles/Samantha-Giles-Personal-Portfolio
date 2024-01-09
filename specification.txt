@@ -1,0 +1,52 @@
+Four Different HTML files:
+1. index.html
+2. about_me.html
+3. lifestyle.html
+4. my_work.html
+
+HTML tags:
+1. <img
+2. <nav
+3. <div
+4. <button
+5. <span
+6. <ul
+7. <a
+8. <li
+9. <form
+10. <p
+11. <script>
+
+Bootstrap: Used for the navigation bar!
+
+CSS properties:
+1.
+.nav-container {
+    width: 50%; /* or whatever width you want */
+    margin: 0 auto;
+  }
+
+2.
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+3.
+p {
+    font-size: 20px;
+  }
+
+4.
+  p.double {
+    border-style: double;
+  }
+
+5.
+  p {
+    margin: 10px;
+  }
+
+Javascript:
+1. The alert
+
+** Coded in office hours at widener, went at 3:00 stayed until 5:00 multiple TF's helped me. Afterwards worked on code by MYSELF, used code from bootstrap as instructed to and am crediting the navigation bar as bootstramp. Finished code 
